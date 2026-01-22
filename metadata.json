@@ -1,0 +1,9 @@
+
+{
+  "name": "Apex AI - The World's Most Powerful Multimodal Studio",
+  "description": "A comprehensive AI workspace leveraging the full Gemini 3 and 2.5 suite for high-reasoning chat, 4K image generation, cinematic video creation, and real-time voice interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
